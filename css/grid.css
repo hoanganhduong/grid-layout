@@ -39,6 +39,10 @@
   word-spacing: -.43em;
 }
 
+.gutter {
+  padding: 1em;
+}
+
 .unit {
   letter-spacing: normal;
   text-rendering: auto;
@@ -46,10 +50,6 @@
   word-spacing: normal;
   display: inline-block;
   visibility: visible;
-}
-
-.gutter {
-  padding: 1em;
 }
 
 .grid-bottom .unit {
