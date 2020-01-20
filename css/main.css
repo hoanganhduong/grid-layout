@@ -34,3 +34,7 @@ figure {
 figcaption {
   padding: .5em;
 }
+
+h1, h2 {
+  font-weight: 700;
+}
